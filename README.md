@@ -1,7 +1,7 @@
 # Human-Resource-Analysis-Using-SQL-and-Power-Bi
-This repository contains SQL queries used to analyze Human Resource data.The analysis aims to provide a comprehensive understanding of the dataset, shedding light on the characteristics of employees, turnover patterns, and distribution across various dimensions such as gender, age, location, and job roles. The findings from these analyses will help inform decision-making and provide valuable insights for understanding the organization's workforce.
+This repository contains SQL queries used to analyze Human Resource data.The aim of this analysis is to provide a comprehensive understanding of the dataset, shedding light on the characteristics of employees, turnover patterns, and distribution across various dimensions such as gender, age, location, and job roles. The findings from these analyses will help inform decision-making and provide valuable insights for understanding the organization's workforce.
 
-The dataset used will be attached to this repository
+The dataset used is attached to this repository
 
 ----
 # Tools Used
